@@ -121,7 +121,7 @@ const LoginPage = () => {
                             padding: "20px",
                             paddingLeft: "50px",
                           }}
-                          type="text"
+                          type="password"
                           w={400}
                           placeholder=""
                           onChange={(e)=>setPassword(e.target.value)}
