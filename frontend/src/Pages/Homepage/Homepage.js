@@ -444,7 +444,7 @@ function deg2rad(deg) {
                 </div>
               </div>
               <div className="flex justify-center items-center w-[45%]">
-                <img src="/assets/images/homepageImage.png" />
+                <img src="/assets/images/homepageImage.png"/>
               </div>
             </div>
           )}

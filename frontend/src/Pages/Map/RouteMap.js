@@ -133,7 +133,7 @@ function MyComponent() {
             ),
             // waypoints:onway(),
             /* eslint-disable */
-            travelMode: google.maps.TravelMode.TRANSIT,
+            travelMode: google.maps.TravelMode.DRIVING,
           })
           .then((res) => {
             console.log(res);
